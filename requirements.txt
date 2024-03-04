@@ -1,4 +1,3 @@
 streamlit==1.30.0
 streamlit_draggable_list==0.0.1
 streamlit_sortables==0.2.0
-~treamlit==1.29.0
